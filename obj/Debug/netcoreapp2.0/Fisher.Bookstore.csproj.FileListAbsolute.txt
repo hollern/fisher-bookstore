@@ -1,0 +1,11 @@
+/Users/Conor/Documents/ACCTMIS3610/Fisher.Bookstore/bin/Debug/netcoreapp2.0/libe_sqlite3.dylib
+/Users/Conor/Documents/ACCTMIS3610/Fisher.Bookstore/bin/Debug/netcoreapp2.0/Fisher.Bookstore.deps.json
+/Users/Conor/Documents/ACCTMIS3610/Fisher.Bookstore/bin/Debug/netcoreapp2.0/Fisher.Bookstore.runtimeconfig.json
+/Users/Conor/Documents/ACCTMIS3610/Fisher.Bookstore/bin/Debug/netcoreapp2.0/Fisher.Bookstore.runtimeconfig.dev.json
+/Users/Conor/Documents/ACCTMIS3610/Fisher.Bookstore/bin/Debug/netcoreapp2.0/Fisher.Bookstore.dll
+/Users/Conor/Documents/ACCTMIS3610/Fisher.Bookstore/bin/Debug/netcoreapp2.0/Fisher.Bookstore.pdb
+/Users/Conor/Documents/ACCTMIS3610/Fisher.Bookstore/obj/Debug/netcoreapp2.0/Fisher.Bookstore.csproj.CoreCompileInputs.cache
+/Users/Conor/Documents/ACCTMIS3610/Fisher.Bookstore/obj/Debug/netcoreapp2.0/Fisher.Bookstore.AssemblyInfoInputs.cache
+/Users/Conor/Documents/ACCTMIS3610/Fisher.Bookstore/obj/Debug/netcoreapp2.0/Fisher.Bookstore.AssemblyInfo.cs
+/Users/Conor/Documents/ACCTMIS3610/Fisher.Bookstore/obj/Debug/netcoreapp2.0/Fisher.Bookstore.dll
+/Users/Conor/Documents/ACCTMIS3610/Fisher.Bookstore/obj/Debug/netcoreapp2.0/Fisher.Bookstore.pdb
