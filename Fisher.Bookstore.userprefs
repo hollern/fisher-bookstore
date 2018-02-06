@@ -1,9 +1,8 @@
 ﻿<Properties StartupConfiguration="{D1C6507E-227D-4CD0-BEAA-E31E14FD019B}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument=".gitignore">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/OfferingsController.cs">
     <Files>
       <File FileName="Startup.cs" Line="36" Column="6" />
       <File FileName="Controllers/OfferingsController.cs" Line="26" Column="40" />
-      <File FileName=".gitignore" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.Fisher.Bookstore PreferredExecutionTarget="MonoDevelop.Default" />
